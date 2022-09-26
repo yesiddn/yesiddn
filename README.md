@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Yesid, a frontend developer and analysis and software development student..
+- 👀 I’m interested in web development, UI/UX design, data science, artificial intelligence and machine learning.
+- 🌱 I’m currently learning the world of development and design, good practices and the best way to create software.
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+ -->
