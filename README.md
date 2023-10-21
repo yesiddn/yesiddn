@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/yesiddn" target="blank"><img src="https://img.shields.io/twitter/follow/yesiddn?logo=twitter&style=for-the-badge" alt="yesiddn" /></a> </p>
 
-- 🔭 Currently working on **Kara Studio, a research project at SENNOVA.**
+<!--- 🔭 Currently working on **Kara Studio, a research project at SENNOVA.** -->
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking to collaborate on **web development projects.**
 
